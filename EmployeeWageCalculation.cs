@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace RFP_day3_PracticeProblems
 {
-    internal class EmployeeWageCalculation
+    class program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             //Constants
             int isFullTime = 1;
