@@ -3,3 +3,14 @@ C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems
 C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.AssemblyInfoInputs.cache
 C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.AssemblyInfo.cs
 C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\bin\Debug\net5.0\RFP-day3-PracticeProblems.exe
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\bin\Debug\net5.0\RFP-day3-PracticeProblems.deps.json
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\bin\Debug\net5.0\RFP-day3-PracticeProblems.runtimeconfig.json
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\bin\Debug\net5.0\RFP-day3-PracticeProblems.runtimeconfig.dev.json
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\bin\Debug\net5.0\RFP-day3-PracticeProblems.dll
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\bin\Debug\net5.0\RFP-day3-PracticeProblems.pdb
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.dll
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\refint\RFP-day3-PracticeProblems.dll
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.pdb
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.genruntimeconfig.cache
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\ref\RFP-day3-PracticeProblems.dll

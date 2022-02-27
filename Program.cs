@@ -6,7 +6,20 @@ namespace RFP_day3_PracticeProblems
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            //Constants
+            int isFullTime = 1;
+            Random random = new Random();
+
+            //Computation
+            int empCheck = random.Next(0, 2);
+            if (empCheck == isFullTime)
+            {
+                Console.WriteLine("Employee is Present");
+            }
+            else
+            {
+                Console.WriteLine("Employee is Absent");
+            }
         }
     }
 }
