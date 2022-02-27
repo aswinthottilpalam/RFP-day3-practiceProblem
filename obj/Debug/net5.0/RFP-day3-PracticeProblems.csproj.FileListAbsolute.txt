@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.AssemblyInfo.cs
+C:\Users\user\Desktop\newpgm\RFP-day3-PracticeProblems\RFP-day3-PracticeProblems\obj\Debug\net5.0\RFP-day3-PracticeProblems.csproj.CoreCompileInputs.cache
