@@ -24,7 +24,7 @@ namespace RFP_day3_PracticeProblems
             //Computation
             for (int day = 0; day< numOfWorkingDays; day++)
             {
-                Random random = new Random()
+                Random random = new Random();
                 int empCheck = random.Next(0, 3);
 
                 switch (empCheck)
